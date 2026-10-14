@@ -30,5 +30,5 @@ assets/fonts/         Figtree + Inter variable fonts (SIL OFL 1.1, licenses incl
 
 - `<!-- ATTORNEY REVIEW -->` and `<!-- REVIEW -->` comments mark open questions. They don't show on the page, but anyone can read them with View Source, so remove them before publishing.
 - When the Privacy or Terms text changes, update the **"Effective"** date.
-- Prices, the trial, permission strings and in-app paths must match App Store Connect and the app. Current values (Oct 2026): `craneinspector.pro.yearly` $499/yr and `craneinspector.pro.monthly` $99/mo, in the group "CertaCrane Pro", each with a 7-day free trial and no Family Sharing. There is no free tier.
+- Prices, the trial, permission strings and in-app paths must match App Store Connect and the app. Current values (Oct 2026): `certacrane.pro.yearly` $499/yr and `certacrane.pro.monthly` $99/mo, in the group "CertaCrane Pro", each with a 7-day free trial and no Family Sharing. There is no free tier.
 - The permission strings quoted in `privacy/` are copied word for word from `INFOPLIST_KEY_NS*UsageDescription` in `project.pbxproj`. If those strings change, update the quotes here too.
