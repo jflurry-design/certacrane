@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1B3150"/><stop offset="1" stop-color="#0C1A2E"/></linearGradient>
+<clipPath id="lc"><circle cx="440" cy="440" r="268.0"/></clipPath></defs>
+<rect width="1024" height="1024" fill="url(#bg)"/>
+<line x1="652.1" y1="652.1" x2="870.0" y2="870.0" stroke="#9AA7B8" stroke-width="96" stroke-linecap="round"/>
+<line x1="672.1" y1="672.1" x2="714.1" y2="714.1" stroke="#F2F4F7" stroke-width="70" stroke-linecap="butt"/>
+<circle cx="440" cy="440" r="268.0" fill="#22406A"/>
+<g clip-path="url(#lc)"><line x1="120.0" y1="760.0" x2="330.0" y2="250.0" stroke="#F5B700" stroke-width="120" stroke-linecap="butt"/><line x1="230.0" y1="505.0" x2="330.0" y2="250.0" stroke="#C98F00" stroke-width="84" stroke-linecap="butt"/><circle cx="345" cy="245" r="70" fill="#F5B700"/><circle cx="345" cy="245" r="46" fill="#0C1A2E"/><circle cx="345" cy="245" r="16" fill="#F5B700"/><line x1="392.0" y1="245.0" x2="392.0" y2="370.0" stroke="#F2F4F7" stroke-width="22" stroke-linecap="round"/><rect x="330.4" y="360" width="123.20000000000002" height="154.0" rx="26.400000000000002" fill="#F5B700"/><path d="M392,510.0 v48.400000000000006 a57.2,57.2 0 1 1 -105.248,28.6" fill="none" stroke="#F5B700" stroke-width="39.6" stroke-linecap="round"/>
+<path d="M230.95999999999998,373.0 A219.76,219.76 0 0 1 373.0,230.95999999999998" fill="none" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="22" stroke-linecap="round"/></g>
+<circle cx="440" cy="440" r="300" fill="none" stroke="#F2F4F7" stroke-width="64"/>
+</svg>
