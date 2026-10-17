@@ -149,7 +149,7 @@ strong { font-weight: 650; }
 .muted { color: var(--text-2); }
 .small { font-size: .92rem; }
 .path {
-  font-weight: 600; white-space: nowrap;
+  font-weight: 600; white-space: normal; overflow-wrap: anywhere; -webkit-box-decoration-break: clone; box-decoration-break: clone;
   background: var(--fill); padding: .05em .45em; border-radius: 7px; font-size: .94em;
 }
 code {
